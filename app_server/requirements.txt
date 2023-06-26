@@ -1,0 +1,6 @@
+Flask
+pyparsing==2.4.7
+hypothesis
+pytest
+pyopenssl
+flask_talisman

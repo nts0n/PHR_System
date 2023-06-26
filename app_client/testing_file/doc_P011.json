@@ -1,0 +1,19 @@
+{
+    "_id": "64709b8f23b4f6d8285f37bd",
+    "patient_id": "P011",
+    "name": "Liam Turner",
+    "age": 58,
+    "gender": "Male",
+    "diagnosis": "Hypothyroidism",
+    "x_ray_image": "https://example.com/xray_images/P011.jpg",
+    "heart_rate": 75,
+    "blood_pressure": "125/80",
+    "respiratory_rate": 14,
+    "address": "542 Maple Lane, Riverside",
+    "medicine": "Levothyroxine",
+    "symptoms": [
+        "Fatigue",
+        "Weight gain",
+        "Depression"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "patient_id": "P111",
+    "name": "John Dyan",
+    "age": 65,
+    "gender": "Male",
+    "diagnosis": "Hypertension",
+    "x_ray_image": "https://example.com/xray_images/P001.jpg",
+    "heart_rate": 78,
+    "blood_pressure": "130/90",
+    "respiratory_rate": 16,
+    "address": "123 Main Street, Cityville",
+    "medicine": "Amlodipine",
+    "symptoms": [
+        "Headache",
+        "Dizziness",
+        "Fatigue"
+    ]
+}

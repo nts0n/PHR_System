@@ -1,0 +1,19 @@
+{
+    "_id": "64709b8f23b4f6d8285f37be",
+    "patient_id": "P012",
+    "name": "Emma Walker",
+    "age": 41,
+    "gender": "Female",
+    "diagnosis": "Anxiety disorder",
+    "x_ray_image": "https://example.com/xray_images/P012.jpg",
+    "heart_rate": 82,
+    "blood_pressure": "120/75",
+    "respiratory_rate": 16,
+    "address": "709 Oak Avenue, Townsville",
+    "medicine": "Sertraline",
+    "symptoms": [
+        "Excessive worrying",
+        "Restlessness",
+        "Panic attacks"
+    ]
+}

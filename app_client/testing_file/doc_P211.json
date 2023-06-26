@@ -1,0 +1,18 @@
+{
+    "patient_id": "P281",
+    "name": "Isabella Lewis",
+    "age": 73,
+    "gender": "Female",
+    "diagnosis": "Rheumatoid arthritis",
+    "x_ray_image": "https://example.com/xray_images/P010.jpg",
+    "heart_rate": 78,
+    "blood_pressure": "120/80",
+    "respiratory_rate": 16,
+    "address": "639 Oak Avenue, Countryside",
+    "medicine": "Methotrexate",
+    "symptoms": [
+        "Joint pain",
+        "Swelling",
+        "Stiffness"
+    ]
+}
